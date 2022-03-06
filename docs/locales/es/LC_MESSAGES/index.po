@@ -18,7 +18,7 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../index.rst:7
-msgid "Welcome to helloWorld's documentation!"
+msgid "Welcome to helloWorld's documentation! 0.02"
 msgstr "¡Bienvenido a la documentación de helloWorld!"
 
 #: ../../index.rst:9
